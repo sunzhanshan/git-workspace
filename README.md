@@ -1,3 +1,2 @@
-this is one test file
-test step 1
-test step 2
+2026.11.23
+Create the first hello.c file.
